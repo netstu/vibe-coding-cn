@@ -4,8 +4,7 @@ This file provides guidance to Claude series models when working with code in th
 
 ## Repository Overview
 
-This is the **Vibe Coding CN** repository, a workflow, toolset, and knowledge base for advanced AI-assisted programming. The project's core assets are its
- extensive `prompts` and `skills` libraries.
+This is the **Vibe Coding CN** repository, a workflow, toolset, and knowledge base for advanced AI-assisted programming. The project's core assets are its extensive `prompts` and `skills` libraries.
 
 ## Key Commands
 

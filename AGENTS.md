@@ -3,7 +3,7 @@
 ## Project Structure & Module Organization
 - 根目录：`README.md` 给出全貌，`Makefile` 封装日常命令，`CONTRIBUTING.md` 说明贡献流程，`LICENSE` 载明协议。保持根目录扁平，避免巨石文件。
 - 文档库：`documents/` 汇总流程、架构与实践（如 `代码组织.md`、`通用项目架构模板.md`、`开发经验.md`），是理解方法论与协作规则的首选入口。新增流程文档时优先放此处并在 README 链接。
-- 提示词资产：`prompts/` 按角色拆分（system / assistant / coding / user），`prompts/prompts-library/` 提供 Excel ↔ Markdown 互转工具与脚本目录，便于批量维护提示词，适合作为“单一真实来源”。
+- 提示词资产：`prompts/` 按角色拆分（system / assistant / coding / user），`libs/external/prompts-library/` 提供 Excel ↔ Markdown 互转工具与脚本目录，便于批量维护提示词，适合作为“单一真实来源”。
 - 代码与集成：`libs/` 预留核心实现骨架，`common/`、`database/`、`external/` 分别对应通用模型、存储适配与外部依赖登记；新增模块需保持分层边界与单一职责，避免跨层调用。
 - 备份：`backups/` 内含 `一键备份.sh` 与 `快速备份.py`，用于本地快照或同步，请先在隔离目录试跑，确认输出路径与权限。
 
@@ -31,7 +31,7 @@
 
 ## Security & Configuration Tips
 - 运行备份或转换脚本前，确认输出目录不会覆盖私有数据；建议先在临时目录试跑并检查生成文件，必要时使用只读副本。
-- 外部依赖来源记录在 `libs/external/AGENTS.md`，增减依赖时同步维护，保持可追溯；引入第三方脚本需标明许可证与来源。
+- 外部依赖来源记录在 `libs/external/` 目录下，增减依赖时同步维护，保持可追溯；引入第三方脚本需标明许可证与来源。
 
 ## Architecture Overview & Workflow
 - 工作流倡导「规划 → 上下文固定 → 分步实现 → 自测 → 复盘」，对应资产分别存放在 `documents/`、`prompts/`、`libs/` 与备份脚本中。保持单向数据流和清晰责任边界可以避免后期维护成本激增。
