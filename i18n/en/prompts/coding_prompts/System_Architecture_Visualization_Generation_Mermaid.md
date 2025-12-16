@@ -11,7 +11,7 @@ TRANSLATED CONTENT:
 
 <div align="center">
 
-# Vibe Coding 指南
+# vibe coding 至尊超级终极无敌指南 V114514
 
 **一个通过与 AI 结对编程，将想法变为现实的终极工作站**
 
@@ -28,44 +28,15 @@ TRANSLATED CONTENT:
   <a href="https://github.com/tukuaiai/vibe-coding-cn"><img src="https://img.shields.io/github/languages/code-size/tukuaiai/vibe-coding-cn?style=for-the-badge" alt="代码大小"></a>
   <a href="https://github.com/tukuaiai/vibe-coding-cn/graphs/contributors"><img src="https://img.shields.io/github/contributors/tukuaiai/vibe-coding-cn?style=for-the-badge" alt="贡献者"></a>
   <a href="https://t.me/glue_coding"><img src="https://img.shields.io/badge/chat-telegram-blue?style=for-the-badge&logo=telegram" alt="交流群"></a>
-  <!-- 多语言入口 -->
-  <a href="./i18n/zh/README.md"><img src="https://img.shields.io/badge/lang-zh-red?style=for-the-badge" alt="简体中文"></a>
-  <a href="./i18n/en/README.md"><img src="https://img.shields.io/badge/lang-en-lightgrey?style=for-the-badge" alt="English"></a>
-  <a href="./i18n/he/"><img src="https://img.shields.io/badge/lang-he-navy?style=for-the-badge" alt="Hebrew"></a>
-  <a href="./i18n/ar/"><img src="https://img.shields.io/badge/lang-ar-brown?style=for-the-badge" alt="Arabic"></a>
-  <a href="./i18n/bn/"><img src="https://img.shields.io/badge/lang-bn-orange?style=for-the-badge" alt="Bengali"></a>
-  <a href="./i18n/de/"><img src="https://img.shields.io/badge/lang-de-black?style=for-the-badge" alt="Deutsch"></a>
-  <a href="./i18n/es/"><img src="https://img.shields.io/badge/lang-es-yellow?style=for-the-badge" alt="Español"></a>
-  <a href="./i18n/fa/"><img src="https://img.shields.io/badge/lang-fa-purple?style=for-the-badge" alt="Farsi"></a>
-  <a href="./i18n/fr/"><img src="https://img.shields.io/badge/lang-fr-blue?style=for-the-badge" alt="Français"></a>
-  <a href="./i18n/ha/"><img src="https://img.shields.io/badge/lang-ha-darkgreen?style=for-the-badge" alt="Hausa"></a>
-  <a href="./i18n/hi/"><img src="https://img.shields.io/badge/lang-hi-darkorange?style=for-the-badge" alt="Hindi"></a>
-  <a href="./i18n/id/"><img src="https://img.shields.io/badge/lang-id-teal?style=for-the-badge" alt="Bahasa Indonesia"></a>
-  <a href="./i18n/it/"><img src="https://img.shields.io/badge/lang-it-green?style=for-the-badge" alt="Italiano"></a>
-  <a href="./i18n/ja/"><img src="https://img.shields.io/badge/lang-ja-indigo?style=for-the-badge" alt="日本語"></a>
-  <a href="./i18n/ko/"><img src="https://img.shields.io/badge/lang-ko-slateblue?style=for-the-badge" alt="한국어"></a>
-  <a href="./i18n/ms/"><img src="https://img.shields.io/badge/lang-ms-seagreen?style=for-the-badge" alt="Bahasa Melayu"></a>
-  <a href="./i18n/nl/"><img src="https://img.shields.io/badge/lang-nl-darkred?style=for-the-badge" alt="Nederlands"></a>
-  <a href="./i18n/pl/"><img src="https://img.shields.io/badge/lang-pl-crimson?style=for-the-badge" alt="Polski"></a>
-  <a href="./i18n/pt/"><img src="https://img.shields.io/badge/lang-pt-darkslategray?style=for-the-badge" alt="Português"></a>
-  <a href="./i18n/ru/"><img src="https://img.shields.io/badge/lang-ru-steelblue?style=for-the-badge" alt="Русский"></a>
-  <a href="./i18n/sw/"><img src="https://img.shields.io/badge/lang-sw-forestgreen?style=for-the-badge" alt="Swahili"></a>
-  <a href="./i18n/ta/"><img src="https://img.shields.io/badge/lang-ta-darkmagenta?style=for-the-badge" alt="Tamil"></a>
-  <a href="./i18n/th/"><img src="https://img.shields.io/badge/lang-th-royalblue?style=for-the-badge" alt="ภาษาไทย"></a>
-  <a href="./i18n/tr/"><img src="https://img.shields.io/badge/lang-tr-firebrick?style=for-the-badge" alt="Türkçe"></a>
-  <a href="./i18n/uk/"><img src="https://img.shields.io/badge/lang-uk-cornflowerblue?style=for-the-badge" alt="Українська"></a>
-  <a href="./i18n/ur/"><img src="https://img.shields.io/badge/lang-ur-darkslateblue?style=for-the-badge" alt="Urdu"></a>
-  <a href="./i18n/vi/"><img src="https://img.shields.io/badge/lang-vi-darkgreen?style=for-the-badge" alt="Tiếng Việt"></a>
 </p>
 
-[📚 相关文档](#-相关文档与资源)
+[📚 相关文档](#-相关文档)
 [🚀 入门指南](#-入门指南)
 [⚙️ 完整设置流程](#️-完整设置流程)
 [📞 联系方式](#-联系方式)
-[✨ 支持项目](#-支持项目)
+[✨ 赞助地址](#-赞助地址)
 [🤝 参与贡献](#-参与贡献)
 
-本仓库的 AI 解读链接：[zread.ai/tukuaiai/vibe-coding-cn](https://zread.ai/tukuaiai/vibe-coding-cn/1-overview)
 
 </div>
 
@@ -77,42 +48,10 @@ TRANSLATED CONTENT:
 
 > **核心理念**: *规划就是一切。* 谨慎让 AI 自主规划，否则你的代码库会变成一团无法管理的乱麻。
 
-**注意**：以下经验分享并非普遍适用，请在具体实践中结合场景，辩证采纳。
-
-## 🔑 元方法论 (Meta-Methodology)
-
-该思想的核心是构建一个能够**自我优化**的 AI 系统。其递归本质可分解为以下步骤：
-
-> 延伸阅读：[A Formalization of Recursive Self-Optimizing Generative Systems](./i18n/zh/documents/Methodology%20and%20Principles/A%20Formalization%20of%20Recursive%20Self-Optimizing%20Generative%20Systems.md)
-
-#### 1. 定义核心角色：
-
-*   **α-提示词 (生成器)**: 一个“母体”提示词，其唯一职责是**生成**其他提示词或技能。
-*   **Ω-提示词 (优化器)**: 另一个“母体”提示词，其唯一职责是**优化**其他提示词或技能。
-
-#### 2. 描述递归的生命周期：
-
-1.  **创生 (Bootstrap)**:
-    *   使用 AI 生成 `α-提示词` 和 `Ω-提示词` 的初始版本 (v1)。
-
-2.  **自省与进化 (Self-Correction & Evolution)**:
-    *   使用 `Ω-提示词 (v1)` **优化** `α-提示词 (v1)`，从而得到一个更强大的 `α-提示词 (v2)`。
-
-3.  **创造 (Generation)**:
-    *   使用**进化后的** `α-提示词 (v2)` 生成所有需要的目标提示词和技能。
-
-4.  **循环与飞跃 (Recursive Loop)**:
-    *   将新生成的、更强大的产物（甚至包括新版本的 `Ω-提示词`）反馈给系统，再次用于优化 `α-提示词`，从而启动持续进化。
-
-#### 3. 终极目标：
-
-通过此持续的**递归优化循环**，系统在每次迭代中实现**自我超越**，无限逼近预设的**预期状态**。
-
 ## 🧭 道
 
 * **凡是 ai 能做的，就不要人工做**
 * **一切问题问 ai**
-* **目的主导：开发过程中的一切动作围绕"目的"展开**
 * **上下文是 vibe coding 的第一性要素，垃圾进，垃圾出**
 * **系统性思考，实体，链接，功能/目的，三个维度**
 * **数据与函数即是编程的一切**
@@ -124,7 +63,6 @@ TRANSLATED CONTENT:
 * **逆向思考，先明确你的需求，从需求逆向构建代码**
 * **重复，多试几次，实在不行重新开个窗口，**
 * **专注，极致的专注可以击穿代码，一次只做一件事（神人除外）**
-
 
 ## 🧩 法
 
@@ -146,89 +84,78 @@ TRANSLATED CONTENT:
 
 ## 📋 器
 
-### 集成开发环境 (IDE) & 终端
-
-*   [**Visual Studio Code**](https://code.visualstudio.com/): 一款功能强大的集成开发环境，适合代码阅读与手动修改。其 `Local History` 插件对项目版本管理尤为便捷。
-*   **虚拟环境 (.venv)**: 强烈推荐使用，可实现项目环境的一键配置与隔离，特别适用于 Python 开发。
-*   [**Cursor**](https://cursor.com/): 已经占领用户心智高地，人尽皆知。
-*   [**Warp**](https://www.warp.dev/): 集成 AI 功能的现代化终端，能有效提升命令行操作和错误排查的效率。
-*   [**Neovim (nvim)**](https://github.com/neovim/neovim): 一款高性能的现代化 Vim 编辑器，拥有丰富的插件生态，是键盘流开发者的首选。
-*   [**LazyVim**](https://github.com/LazyVim/LazyVim): 基于 Neovim 的配置框架，预置了 LSP、代码补全、调试等全套功能，实现了开箱即用与深度定制的平衡。
-
-### AI 模型 & 服务
-
-*   [**Claude Opus 4.5**](https://claude.ai/new): 性能强大的 AI 模型，通过 Claude Code 等平台提供服务，并支持 CLI 和 IDE 插件。
-*   [**gpt-5.1-codex.1-codex (xhigh)**](https://chatgpt.com/codex/): 适用于处理大型项目和复杂逻辑的 AI 模型，可通过 Codex CLI 等平台使用。
-*   [**Droid**](https://factory.ai/news/terminal-bench): 提供对 Claude Opus 4.5 等多种模型的 CLI 访问。
-*   [**Kiro**](https://kiro.dev/): 目前提供免费的 Claude Opus 4.5 模型访问，并提供客户端及 CLI 工具。
-*   [**Gemini CLI**](https://geminicli.com/): 提供对 Gemini 模型的免费访问，适合执行脚本、整理文档和探索思路。
-*   [**antigravity**](https://antigravity.google/): 目前由 Google 提供的免费 AI 服务，支持使用 Claude Opus 4.5 和 Gemini 3.0 Pro。
-*   [**AI Studio**](https://aistudio.google.com/prompts/new_chat): Google 提供的免费服务，支持使用 Gemini 3.0 Pro 和 Nano Banana。
-*   [**Gemini Enterprise**](https://cloud.google.com/gemini-enterprise): 面向企业用户的 Google AI 服务，目前可以免费使用。
-*   [**GitHub Copilot**](https://github.com/copilot): 由 GitHub 和 OpenAI 联合开发的 AI 代码补全工具。
-*   [**Kimi K2**](https://www.kimi.com/): 一款国产 AI 模型，适用于多种常规任务。
-*   [**GLM**](https://bigmodel.cn/): 由智谱 AI 开发的国产大语言模型。
-*   [**Qwen**](https://qwenlm.github.io/qwen-code-docs/zh/cli/): 由阿里巴巴开发的 AI 模型，其 CLI 工具提供免费使用额度。
-
-### 开发与辅助工具
-
-*   [**Augment**](https://app.augmentcode.com/): 提供强大的上下文引擎和提示词优化功能。
-*   [**Windsurf**](https://windsurf.com/): 为新用户提供免费额度的 AI 开发工具。
-*   [**Ollama**](https://ollama.com/): 本地大模型管理工具，可通过命令行方便地拉取和运行开源模型。
-*   [**Mermaid Chart**](https://www.mermaidchart.com/): 用于将文本描述转换为架构图、序列图等可视化图表。
-*   [**NotebookLM**](https://notebooklm.google.com/): 一款用于 AI 解读资料、音频和生成思维导图的工具。
-*   [**Zread**](https://zread.ai/): AI 驱动的 GitHub 仓库阅读工具，有助于快速理解项目代码。
-*   [**tmux**](https://github.com/tmux/tmux): 强大的终端复用工具，支持会话保持、分屏和后台任务，是服务器与多项目开发的理想选择。
-*   [**DBeaver**](https://dbeaver.io/): 一款通用数据库管理客户端，支持多种数据库，功能全面。
-
-### 资源与模板
-
-*   [**提示词库 (在线表格)**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1): 一个包含大量可直接复制使用的各类提示词的在线表格。
-*   [**第三方系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): 用于学习和参考其他 AI 工具的系统提示词。
-*   [**Skills 制作器**](https://github.com/yusufkaraaslan/Skill_Seekers): 可根据需求生成定制化 Skills 的工具。
-*   [**元提示词**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220): 用于生成提示词的高级提示词。
-*   [**通用项目架构模板**](./i18n/zh/documents/Templates%20and%20Resources/通用项目架构模板.md): 可用于快速搭建标准化的项目目录结构。
-*   [**元技能：Skills 的 Skills**](./i18n/zh/skills/claude-skills/SKILL.md): 用于生成 Skills 的元技能。
-*   [**tmux快捷键大全**](./i18n/zh/documents/Tutorials%20and%20Guides/tmux快捷键大全.md): tmux 的快捷键参考文档。
-*   [**LazyVim快捷键大全**](./i18n/zh/documents/Tutorials%20and%20Guides/LazyVim快捷键大全.md): LazyVim 的快捷键参考文档。
-*   [**二哥的Java进阶之路**](https://javabetter.cn/): 包含多种开发工具的详细配置教程。
-*   [**虚拟卡**](https://www.bybit.com/cards/?ref=YDGAVPN&source=applet_invite): 可用于注册云服务等需要国际支付的场景。
+- [**Claude Opus 4.5**](https://claude.ai/new)，在 Claude Code 中使用 很贵，但是尼区ios订阅要便宜几百人民币，快+效果好，顶中顶中顶，有 cli 和 ide 插件
+- [**gpt-5.1-codex.1-codex (xhigh)**](https://chatgpt.com/codex/)，在 Codex CLI 中使用，顶中顶，除了慢其他没得挑，大项目复杂逻辑唯一解，买chatgpt会员就能用，有 cli 和 ide 插件
+- [**Droid**](https://factory.ai/news/terminal-bench)，这个里面的 Claude Opus 4.5比 Claude Code 还强，顶，有 cli
+- [**Kiro**](https://kiro.dev/)，这个里面的 Claude Opus 4.5 现在免费，就是cli有点拉，看不到正在运行的情况有客户端和 cli
+- [**gemini**](https://geminicli.com/)，目前免费用，干脏活，用 Claude Code 或者 codex 写好的脚本，拿他来执行可以，整理文档和找思路就它了有客户端和 cli
+- [**antigravity**](https://antigravity.google/)，谷歌的，可以免费用 Claude Opus 4.5 和 gemini 3.0 pro 大善人
+- [**aistudio**](https://aistudio.google.com/prompts/new_chat)，谷歌家的，免费用 gemini 3.0 pro 和 Nano Banana
+- [**gemini-enterprise**](https://cloud.google.com/gemini-enterprise)，谷歌企业版，现在能免费用 Nano Banana pro
+- [**augment**](https://app.augmentcode.com/)，它的上下文引擎和提示词优化按钮真的神中神中神，小白就用它就行了，点击按钮自动帮你写好提示词，懒人必备
+- [**cursor**](https://cursor.com/)，很多人用哈哈
+- [**Windsurf**](https://windsurf.com/)，新用户有免费额度
+- [**GitHub Copilot**](https://github.com/features/copilot)，没用过
+- [**kimik2**](https://www.kimi.com/)，国产，还行，干脏活写简单任务用，之前2r一个key，一周1024次调用挺爽
+- [**GLM**](https://bigmodel.cn/)，国产，听说很强，听说和 Claude Sonnet 4 差不多？
+- [**Qwen**](https://qwenlm.github.io/qwen-code-docs/zh/cli/)，国产阿里的，cli有免费额度
+- [**提示词库，直接复制粘贴即可使用**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
+- [**其他编程工具的系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [**Skills制作器（ ai 你下好之后让 ai 用这个仓库按照你的需求生成 Skills 即可）**](https://github.com/yusufkaraaslan/Skill_Seekers)
+- [**元提示词，生成提示词的提示词**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220)
+- [**通用项目架构模板；这个就是框架，复制给ai一键搭好目录结构**](./documents/通用项目架构模板.md) - 提供了多种项目类型的标准目录结构、核心设计原则、最佳实践建议及技术选型参考。
+- [**augment提示词优化器**](https://app.augmentcode.com/)，这个提示词优化是真的好用，强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈推荐
+- [**思维导图神器，让ai生成项目架构的.mmd图复制到这个里面就能可视化查看啦，，提示词在下面的“系统架构可视化生成Mermaid”里面**](https://www.mermaidchart.com/)
+- [**notebooklm，资料ai解读和技术文档放这里可以，听音频看思维导图和 Nano Banana 生成的图片什么的**](https://notebooklm.google.com/)
+- [**zread，ai读仓库神器，复制github仓库链接进去就能分析，减少用轮子的工作量了**](https://zread.ai/)
 
 ---
 
-## 编码模型性能分级参考
+## 📚 相关文档/资源
 
-建议只选择第一梯队模型处理复杂任务，以确保最佳效果与效率。
-
-*   **第一梯队**: `codex-5.1-max-xhigh`, `claude-opus-4.5-xhigh`, `gpt-5.2-xhigh`
-*   **第二梯队**: `claude-sonnet-4.5`, `kimi-k2-thinking`, `minimax-m2`, `glm-4.6`, `gemini-3.0-pro`, `gemini-2.5-pro`
-*   **第三梯队**: `qwen3`, `SWE`, `grok4`
+- [**vibecoding交流群**](https://t.me/glue_coding)
+- [**我的频道**](https://t.me/tradecat_ai_channel)
+- [**小登论道：我的学习经验**](./documents/小登论道.md)
+- [**编程书籍推荐**](./documents/编程书籍推荐.md)
+- [**Skills生成器，把任何资料转agent的Skills（技能）**](https://github.com/yusufkaraaslan/Skill_Seekers)
+- [**google表格提示词数据库，我系统性收集和制作的几百个适用于各个场景的用户提示词和系统提示词在线表格**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
+- [**系统提示词收集仓库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [**prompts-library 提示词库xlsx与md文件夹互转工具与使用说明，有几百个适用于各个领域的提示词与元提示词**](./prompts-library/)
+- [**coding_prompts我收集和制作的几十个vibecoding适用的提示词**](./prompts/coding_prompts/)
+- [**代码组织.md**](./documents/代码组织.md)
+- [**关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md**](./documents/关于手机ssh任意位置链接本地计算机，基于frp实现的方法.md)
+- [**工具集.md**](./documents/工具集.md)
+- [**编程之道.md**](./documents/编程之道.md)
+- [**胶水编程.md**](./documents/胶水编程.md)
+- [**gluecoding.md**](./documents/gluecoding.md)
+- [**CONTRIBUTING.md**](./CONTRIBUTING.md)
+- [**CODE_OF_CONDUCT.md**](./CODE_OF_CONDUCT.md)
+- [**系统提示词构建原则.md**](./documents/系统提示词构建原则.md) - 深入探讨构建高效、可靠AI系统提示词的核心原则、沟通互动、任务执行、编码规范与安全防护等全方位指南。
+- [**系统架构可视化生成Mermaid**](./prompts/coding_prompts/系统架构可视化生成Mermaid.md) - 根据项目直接生成 .mmd 导入思维导图网站直观看架构图，序列图等等
+- [**开发经验.md**](./documents/开发经验.md) - 包含变量命名、文件结构、编码规范、系统架构原则、微服务、Redis和消息队列等开发经验与项目规范的详细整理。
+- [**vibe-coding-经验收集.md**](./documents/vibe-coding-经验收集.md) - AI开发最佳实践与系统提示词优化技巧的经验收集。
+- [**通用项目架构模板.md**](./documents/通用项目架构模板.md) - 提供了多种项目类型的标准目录结构、核心设计原则、最佳实践建议及技术选型参考。
+- [**auggie-mcp 详细配置文档**](./documents/auggie-mcp配置文档.md) - augment上下文引擎mcp，非常好用。
+- [**system_prompts/**](./prompts/system_prompts/) - AI开发系统提示词集合，包含多版本开发规范与思维框架（1-8号配置）。
+  - `1/CLAUDE.md` - 开发者行为准则与工程规范
+  - `2/CLAUDE.md` - ultrathink模式与架构可视化规范
+  - `3/CLAUDE.md` - 思维创作哲学与执行确认机制
+  - `4/CLAUDE.md` - Linus级工程师服务认知架构
+  - `5/CLAUDE.md` - 顶级程序员思维框架与代码品味
+  - `6/CLAUDE.md` - 综合版本，整合所有最佳实践
+  - `7/CLAUDE.md` - 推理与规划智能体，专职复杂任务分解与高可靠决策支持
+  - `8/CLAUDE.md` - 最新综合版本，顶级程序员服务Linus级工程师，包含完整元规则与认知架构
+  - `9/CLAUDE.md` - 失败的简化版本，效果不行
+  - `10/CLAUDE.md` - 最新综合版本，加入了augment上下文引擎的使用规范与要求
 
 ---
 
-## 📚 相关文档与资源
+## ✉️ 联系方式
 
-*   **交流社区**:
-    *   [Telegram 交流群](https://t.me/glue_coding)
-    *   [Telegram 频道](https://t.me/tradecat_ai_channel)
-*   **个人分享**:
-    *   [我的学习经验](./i18n/zh/documents/Methodology%20and%20Principles/学习经验.md)
-    *   [编程书籍推荐](./i18n/zh/documents/Templates%20and%20Resources/编程书籍推荐.md)
-*   **核心资源**:
-    *   [**元提示词库**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220): 用于生成提示词的高级提示词集合。
-    *   [**元技能 (Meta-Skill)**](./i18n/zh/skills/claude-skills/SKILL.md): 用于生成 Skills 的 Skill。
-    *   [**技能库 (Skills)**](./i18n/zh/skills): 可直接集成的模块化技能仓库。
-    *   [**技能生成器**](https://github.com/yusufkaraaslan/Skill_Seekers): 将任何资料转化为 Agent 可用技能的工具。
-    *   [**在线提示词数据库**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1): 包含数百个适用于各场景的用户及系统提示词的在线表格。
-    *   [**第三方系统提示词仓库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): 汇集了多种 AI 工具的系统提示词。
-*   **项目内部文档**:
-    *   [**prompts-library 工具说明**](./libs/external/prompts-library/): 该工具支持在 Excel 和 Markdown 格式之间转换提示词，并包含数百个精选提示词。
-    *   [**coding_prompts 集合**](./i18n/zh/prompts/coding_prompts/): 适用于 Vibe Coding 流程的专用提示词。
-    *   [**系统提示词构建原则**](./i18n/zh/documents/Methodology%20and%20Principles/系统提示词构建原则.md): 关于如何构建高效、可靠的 AI 系统提示词的综合指南。
-    *   [**开发经验总结**](./i18n/zh/documents/Methodology%20and%20Principles/开发经验.md): 包含变量命名、文件结构、编码规范、架构原则等实践经验。
-    *   [**通用项目架构模板**](./i18n/zh/documents/Templates%20and%20Resources/通用项目架构模板.md): 提供多种项目类型的标准目录结构与最佳实践。
-    *   [**Augment MCP 配置文档**](./i18n/zh/documents/Tutorials%20and%20Guides/auggie-mcp配置文档.md): Augment 上下文引擎的详细配置说明。
-    *   [**system_prompts 集合**](./i18n/zh/prompts/system_prompts/): 用于指导 AI 开发的系统提示词，包含多个版本的开发规范与思维框架。
+- **GitHub**: [tukuaiai](https://github.com/tukuaiai)
+- **Telegram**: [@desci0](https://t.me/desci0)
+- **X (Twitter)**: [@123olp](https://x.com/123olp)
+- **Email**: `tukuai.ai@gmail.com`
 
 ---
 
@@ -248,47 +175,47 @@ TRANSLATED CONTENT:
 ├── AGENTS.md                    # AI 代理相关的文档或配置。
 ├── CLAUDE.md                    # AI 助手的核心行为准则或配置。
 │
-├── i18n/zh/documents/           # 存放各类说明文档、经验总结和配置详细说明。
-│   ├── Methodology and Principles/ # 方法论与原则
-│   ├── Templates and Resources/    # 模板与资源
-│   └── Tutorials and Guides/       # 教程与指南
+├── documents/                   # 存放各类说明文档、经验总结和配置详细说明。
+│   ├── auggie-mcp配置文档.md      # Augment 上下文引擎配置文档。
+│   ├── 代码组织.md                # 代码组织与结构相关文档。
+│   ├── ... (其他文档)
 │
 ├── libs/                        # 通用库代码，用于项目内部模块化。
 │   ├── common/                  # 通用功能模块。
+│   │   ├── __init__.py          # Python 包初始化文件。
 │   │   ├── models/              # 模型定义。
 │   │   │   └── __init__.py
 │   │   └── utils/               # 工具函数。
-│   │       └── backups/         # 内部备份工具。
+│   │       └── __init__.py
 │   ├── database/                # 数据库相关模块。
 │   │   └── .gitkeep             # 占位文件，确保目录被 Git 跟踪。
 │   └── external/                # 外部集成模块。
-│       ├── my-nvim/             # 用户的 Neovim 配置。
-│       ├── prompts-library/     # 提示词库管理工具（Excel-Markdown 转换）。
-│       │   ├── main.py          # 提示词库管理工具主入口。
-│       │   ├── scripts/         # 包含 Excel 与 Markdown 互转脚本和配置。
-│       │   ├── prompt_excel/    # 存放 Excel 格式的原始提示词数据。
-│       │   ├── prompt_docs/     # 存放从 Excel 转换而来的 Markdown 提示词文档。
-│       │   └── ... (其他 prompts-library 内部文件)
-│       └── XHS-image-to-PDF-conversion/ # 小红书图片转PDF工具。
+│       └── .gitkeep             # 占位文件，确保目录被 Git 跟踪。
 │
-├── i18n/zh/prompts/             # 集中存放所有类型的 AI 提示词。
+├── prompts/                     # 集中存放所有类型的 AI 提示词。
 │   ├── assistant_prompts/       # 辅助类提示词。
 │   ├── coding_prompts/          # 专门用于编程和代码生成相关的提示词集合。
-│   │   └── ... (具体编程提示词文件)
+│   │   ├── ... (具体编程提示词文件)
+│   │
+│   ├── prompts-library/         # 提示词库管理工具（Excel-Markdown 转换）
+│   │   ├── main.py              # 提示词库管理工具主入口。
+│   │   ├── scripts/             # 包含 Excel 与 Markdown 互转脚本和配置。
+│   │   ├── prompt_excel/        # 存放 Excel 格式的原始提示词数据。
+│   │   ├── prompt_docs/         # 存放从 Excel 转换而来的 Markdown 提示词文档。
+│   │   ├── ... (其他 prompts-library 内部文件)
 │   │
 │   ├── system_prompts/          # AI 系统级提示词，用于设定 AI 行为和框架。
-│   │   └── ... (其他系统提示词)
+│   │   ├── CLAUDE.md/           # （注意：此路径下文件和目录同名，可能需用户确认）
+│   │   ├── ... (其他系统提示词)
 │   │
 │   └── user_prompts/            # 用户自定义或常用提示词。
 │       ├── ASCII图生成.md         # ASCII 艺术图生成提示词。
 │       ├── 数据管道.md            # 数据管道处理提示词。
-│       └── ... (其他用户提示词)
+│       ├── ... (其他用户提示词)
 │
-├── i18n/zh/skills/              # 集中存放所有类型的 skills 技能。
-    ├── claude-skills            # 生成 SKILL 的元 SKILL
-    │   ├── SKILL.md
-    │   └── ... (其他)
-    └── ... (与其他 skill)
+└── backups/                     # 项目备份脚本。
+    ├── 一键备份.sh                # 一键执行备份的 Shell 脚本。
+    └── 快速备份.py                # 实际执行逻辑的 Python 脚本。
 ```
 
 ---
@@ -298,20 +225,46 @@ TRANSLATED CONTENT:
 一句话：Vibe Coding = **规划驱动 + 上下文固定 + AI 结对执行**，让「从想法到可维护代码」变成一条可审计的流水线，而不是一团无法迭代的巨石文件。
 
 **你能得到**
-- 成体系的提示词工具链：`i18n/zh/prompts/system_prompts/` 约束 AI 行为边界，`i18n/zh/prompts/coding_prompts/` 提供需求澄清、计划、执行的全链路脚本。
+- 成体系的提示词工具链：`prompts/system_prompts/` 约束 AI 行为边界，`prompts/coding_prompts/` 提供需求澄清、计划、执行的全链路脚本。
 - 闭环交付路径：需求 → 上下文文档 → 实施计划 → 分步实现 → 自测 → 进度记录，全程可复盘、可移交。
+- 共享记忆库：在 `memory-bank/`（或你的等价目录）同步 `project-context.md`、`progress.md` 等，让人类与 AI 共用同一真相源。
+
+**3 分钟 CLI 演示（在 Codex CLI / Claude Code 中按顺序执行即可）**
+1) 复制你的需求，加载 `prompts/coding_prompts/(1,1)_#_📘_项目上下文文档生成_·_工程化_Prompt（专业优化版）.md` 生成 `project-context.md`。
+2) 加载 `prompts/coding_prompts/(3,1)_#_流程标准化.md`，得到可执行的实施计划与每步验收方式。
+3) 使用 `prompts/coding_prompts/(5,1)_{content#_🚀_智能需求理解与研发导航引擎（Meta_R&D_Navigator_·.md` 驱动 AI 按计划写代码；每完成一项就更新 `progress.md` 并运行计划中的测试或 `make test`。
+
+**录屏要点（便于替换成 GIF）**
+- 画面 1：粘贴需求 → 自动生成上下文文档。
+- 画面 2：生成实施计划，勾选 3–5 个任务。
+- 画面 3：AI 写出首个模块并跑通测试结果。
+- 建议将录屏保存为 `documents/assets/vibe-coding-demo.gif`，再替换下方链接。
+
+<p align="center">
+  <img src="./documents/assets/vibe-coding-demo.gif" alt="Vibe Coding 三步演示" width="80%">
+</p>
+
+**演示剧本（文字版，可直接喂给 AI 使用）**
+- 需求示例：帮我用 FastAPI 写一个带 Redis 缓存的天气查询服务（含 Dockerfile 和基础测试）。
+- 提醒 AI：按上述 1→2→3 的 prompt 顺序执行；每一步必须给出验收指令；禁止生成单文件巨石。
+- 验收标准：接口返回示例、`docker build` 与 `pytest` 全部通过；README 需补充使用说明与架构摘要。
+
+> 想快速试水，把自己的需求原样贴给 AI，按 1-2-3 的 prompt 串起来，就能得到可落地、可验证、可维护的交付流程。
+
+---
 
 ## ⚙️ 架构与工作流程
 
 核心资产映射：
 ```
-i18n/zh/prompts/
+prompts/
   coding_prompts/        # 需求澄清、计划、执行链的核心提示词
   system_prompts/        # 约束 AI 行为边界的系统级提示词
   assistant_prompts/     # 辅助/配合型提示
   user_prompts/          # 可复用的用户侧提示词
-i18n/zh/documents/
-  Templates and Resources/代码组织.md, Templates and Resources/通用项目架构模板.md, Methodology and Principles/开发经验.md, Methodology and Principles/系统提示词构建原则.md 等知识库
+  prompts-library/       # Excel↔Markdown 提示词转换与索引工具
+documents/
+  代码组织.md, 通用项目架构模板.md, 开发经验.md, 系统提示词构建原则.md 等知识库
 backups/
   一键备份.sh, 快速备份.py  # 本地/远端快照脚本
 ```
@@ -354,11 +307,11 @@ graph TB
   end
 
   subgraph consume_layer[执行与消费层]
-    artifacts_md --> catalog_coding[i18n/zh/prompts/coding_prompts]
-    artifacts_md --> catalog_system[i18n/zh/prompts/system_prompts]
-    artifacts_md --> catalog_assist[i18n/zh/prompts/assistant_prompts]
-    artifacts_md --> catalog_user[i18n/zh/prompts/user_prompts]
-    artifacts_md --> docs_repo[i18n/zh/documents/*]
+    artifacts_md --> catalog_coding[prompts/coding_prompts]
+    artifacts_md --> catalog_system[prompts/system_prompts]
+    artifacts_md --> catalog_assist[prompts/assistant_prompts]
+    artifacts_md --> catalog_user[prompts/user_prompts]
+    artifacts_md --> docs_repo[documents/*]
     artifacts_md --> new_consumer[预留：其他下游渠道]
     catalog_coding --> ai_flow[AI 结对编程流程]
     ai_flow --> deliverables[项目上下文 / 计划 / 代码产出]
@@ -603,30 +556,39 @@ gantt
 
 ## 📞 联系方式
 
--   **GitHub**: [tukuaiai](https://github.com/tukuaiai)
--   **Twitter / X**: [123olp](https://x.com/123olp)
--   **Telegram**: [@desci0](https://t.me/desci0)
--   **Telegram 交流群**: [glue_coding](https://t.me/glue_coding)
--   **Telegram 频道**: [tradecat_ai_channel](https://t.me/tradecat_ai_channel)
--   **邮箱**: tukuai.ai@gmail.com (回复可能不及时)
+推特：https://x.com/123olp
+
+telegram：https://t.me/desci0
+
+telegram交流群：https://t.me/glue_coding
+
+telegram频道：https://t.me/tradecat_ai_channel
+
+邮箱（不一定能及时看到）：tukuai.ai@gmail.com
 
 ---
 
-## ✨ 支持项目
+## ✨ 赞助地址
 
-救救孩子，感谢了，好人一生平安🙏🙏🙏
+救救孩子！！！钱包被ai们榨干了，求让孩子蹭蹭会员求求求求求求求求求了（可以tg或者x联系我）🙏🙏🙏
 
--   **Tron (TRC20)**: `TQtBXCSTwLFHjBqTS4rNUp7ufiGx51BRey`
--   **Solana**: `HjYhozVf9AQmfv7yv79xSNs6uaEU5oUk2USasYQfUYau`
--   **Ethereum (ERC20)**: `0xa396923a71ee7D9480b346a17dDeEb2c0C287BBC`
--   **BNB Smart Chain (BEP20)**: `0xa396923a71ee7D9480b346a17dDeEb2c0C287BBC`
--   **Bitcoin**: `bc1plslluj3zq3snpnnczplu7ywf37h89dyudqua04pz4txwh8z5z5vsre7nlm`
--   **Sui**: `0xb720c98a48c77f2d49d375932b2867e793029e6337f1562522640e4f84203d2e`
--   **币安 UID**: `572155580`
+**Tron (TRC20)**: `TQtBXCSTwLFHjBqTS4rNUp7ufiGx51BRey`
+
+**Solana**: `HjYhozVf9AQmfv7yv79xSNs6uaEU5oUk2USasYQfUYau`
+
+**Ethereum (ERC20)**: `0xa396923a71ee7D9480b346a17dDeEb2c0C287BBC`
+
+**BNB Smart Chain (BEP20)**: `0xa396923a71ee7D9480b346a17dDeEb2c0C287BBC`
+
+**Bitcoin**: `bc1plslluj3zq3snpnnczplu7ywf37h89dyudqua04pz4txwh8z5z5vsre7nlm`
+
+**Sui**: `0xb720c98a48c77f2d49d375932b2867e793029e6337f1562522640e4f84203d2e`
+
+**币安uid支付**: `572155580`
 
 ---
 
-### ✨ 贡献者
+### ✨ 贡献者们
 
 感谢所有为本项目做出贡献的开发者！
 
@@ -635,22 +597,13 @@ gantt
   <img src="https://contrib.rocks/image?repo=EnzeD/vibe-coding" />
 </a>
 
-<p>特别鸣谢以下成员的宝贵贡献 (排名不分先后):<br/>
-<a href="https://x.com/shao__meng">@shao__meng</a> |
-<a href="https://x.com/0XBard_thomas">@0XBard_thomas</a> |
-<a href="https://x.com/Pluvio9yte">@Pluvio9yte</a> |
-<a href="https://x.com/xDinoDeer">@xDinoDeer</a> |
-<a href="https://x.com/geekbb">@geekbb</a>
-<a href="https://x.com/GitHub_Daily">@GitHub_Daily</a>
-</p>
-
 ---
 
 ## 🤝 参与贡献
 
-我们热烈欢迎各种形式的贡献。如果您对本项目有任何想法或建议，请随时开启一个 [Issue](https://github.com/tukuaiai/vibe-coding-cn/issues) 或提交一个 [Pull Request](https://github.com/tukuaiai/vibe-coding-cn/pulls)。
+我们热烈欢迎各种形式的贡献！如果您对本项目有任何想法或建议，请随时开启一个 [Issue](https://github.com/tukuaiai/vibe-coding-cn/issues) 或提交一个 [Pull Request](https://github.com/tukuaiai/vibe-coding-cn/pulls)。
 
-在您开始之前，请花时间阅读我们的 [**贡献指南 (CONTRIBUTING.md)**](CONTRIBUTING.md) 和 [**行为准则 (CODE_OF_CONDUCT.md)**](CODE_OF_CONDUCT.md)。
+在您开始之前，请花点时间阅读我们的 [**贡献指南 (CONTRIBUTING.md)**](CONTRIBUTING.md) 和 [**行为准则 (CODE_OF_CONDUCT.md)**](CODE_OF_CONDUCT.md)。
 
 ---
 
@@ -662,7 +615,7 @@ gantt
 
 <div align="center">
 
-**如果这个项目对您有帮助，请考虑为其点亮一颗 Star ⭐！**
+**如果这个项目对您有帮助，请不要吝啬您的 Star ⭐！**
 
 ## Star History
 
@@ -676,7 +629,6 @@ gantt
 
 ---
 
-**由 [tukuaiai](https://github.com/tukuaiai), [Nicolas Zullo](https://x.com/NicolasZu), 和 [123olp](https://x.com/123olp) 倾力打造**
+**Made with ❤️ and a lot of ☕ by [tukuaiai](https://github.com/tukuaiai),[Nicolas Zullo](https://x.com/NicolasZu)and [123olp](https://x.com/123olp)**
 
-[⬆ 返回顶部](#vibe-coding-指南)
-</div>
+[⬆ 回到顶部](#vibe-coding-至尊超级终极无敌指南-V114514)

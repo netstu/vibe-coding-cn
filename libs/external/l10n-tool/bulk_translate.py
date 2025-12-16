@@ -34,8 +34,19 @@ def translate_blocks(text: str, translator: GoogleTranslator) -> str:
         if not buffer:
             return
         chunk = "\n".join(buffer)
-        result = translator.translate(chunk)
-        translated.extend(result.split("\n"))
+        try:
+            result = translator.translate(chunk)
+            if result is None:
+                raise RuntimeError("翻译返回空结果")
+            translated.extend(result.split("\n"))
+        except Exception:
+            # 兜底：按行逐条翻译，避免整段失败
+            for line in buffer:
+                try:
+                    res_line = translator.translate(line) or line
+                except Exception:
+                    res_line = line  # 保留原文，留待人工校对
+                translated.append(res_line)
         buffer.clear()
 
     for line in lines:
